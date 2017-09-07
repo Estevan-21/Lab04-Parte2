@@ -1,0 +1,16 @@
+/home/estevan/MyTest/MVC_Frameworks_JSF_Intro/src/main/java/edu/eci/pdsw/examples/model/Bebida.java
+/home/estevan/MyTest/MVC_Frameworks_JSF_Intro/src/main/java/verificador/impl/VerificadorEstandar.java
+/home/estevan/MyTest/MVC_Frameworks_JSF_Intro/src/main/java/edu/eci/pdsw/examples/model/Orden.java
+/home/estevan/MyTest/MVC_Frameworks_JSF_Intro/src/main/java/edu/eci/pdsw/examples/view/SimpleApp.java
+/home/estevan/MyTest/MVC_Frameworks_JSF_Intro/src/main/java/verificador/impl/VerificadorIVARegimen2013.java
+/home/estevan/MyTest/MVC_Frameworks_JSF_Intro/src/main/java/edu/eci/pdsw/examples/beans/impl/CalculadorCuentaConPropina.java
+/home/estevan/MyTest/MVC_Frameworks_JSF_Intro/src/main/java/edu/eci/pdsw/webappsintro/controller/OrdersManagedBean.java
+/home/estevan/MyTest/MVC_Frameworks_JSF_Intro/src/main/java/edu/eci/pdsw/examples/model/ExcepcionManejadorOrdenes.java
+/home/estevan/MyTest/MVC_Frameworks_JSF_Intro/src/main/java/edu/eci/pdsw/examples/model/ItemOrden.java
+/home/estevan/MyTest/MVC_Frameworks_JSF_Intro/src/main/java/verificador/VerificadorIVA.java
+/home/estevan/MyTest/MVC_Frameworks_JSF_Intro/src/main/java/edu/eci/pdsw/examples/beans/impl/CalculadorCuentaConIva.java
+/home/estevan/MyTest/MVC_Frameworks_JSF_Intro/src/main/java/edu/eci/pdsw/examples/beans/CalculadorCuenta.java
+/home/estevan/MyTest/MVC_Frameworks_JSF_Intro/src/main/java/edu/eci/pdsw/examples/services/ManejadorOrdenes.java
+/home/estevan/MyTest/MVC_Frameworks_JSF_Intro/src/main/java/edu/eci/pdsw/examples/model/Plato.java
+/home/estevan/MyTest/MVC_Frameworks_JSF_Intro/src/main/java/edu/eci/pdsw/examples/beans/impl/CalculadorBasicoCuentas.java
+/home/estevan/MyTest/MVC_Frameworks_JSF_Intro/src/main/java/edu/eci/pdsw/examples/services/ManejadorOrdenesFactory.java
